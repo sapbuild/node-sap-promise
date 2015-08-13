@@ -1,6 +1,5 @@
 [![Build](https://img.shields.io/travis/sapbuild/node-sap-promise.svg?style=flat-square)](http://travis-ci.org/sapbuild/node-sap-promise)
-[![Version](https://img.shields.io/npm/v/hdb.svg?style=flat-square)](https://npmjs.org/package/hdb)
-[![License](https://img.shields.io/npm/l/hdb.svg?style=flat-square)](http://www.apache.org/licenses/LICENSE-2.0.html)
+[![Version](https://img.shields.io/npm/v/node-sap-promise.svg?style=flat-square)](https://npmjs.org/package/node-sap-promise)
 
 node-sap-promise
 ================
