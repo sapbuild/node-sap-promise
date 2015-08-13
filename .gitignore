@@ -1,0 +1,8 @@
+.idea/
+.sonar/
+coverage/
+log/
+node_modules/
+
+*.iml
+npm-debug.log
