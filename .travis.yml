@@ -11,3 +11,6 @@ before_install:
   
 script:
   - gulp build 
+  
+after_success:
+  - coveralls
