@@ -1,7 +1,7 @@
 {
   "name": "node-sap-promise",
   "description": "SAP ECMAScript 6 compliant Promise implementation with a few nice extensions",
-  "version": "0.1.1",
+  "version": "0.3.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/SAP/BUILD.git"
