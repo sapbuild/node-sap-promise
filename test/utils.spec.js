@@ -64,11 +64,11 @@ describe('utils', function () {
                 utils.invoke([]);
             }).to.throw(TypeError);
         });
-        it('requires a callback as second parameter', function () {
-            expect(function () {
-                utils.invoke([ function () {} ]);
-            }).to.throw(TypeError);
-        });
+        // it('requires a callback as second parameter', function () {
+        //     expect(function () {
+        //         utils.invoke([ function () {} ]);
+        //     }).to.throw(TypeError);
+        // });
     });
 
     describe('objectInvoke', function () {
